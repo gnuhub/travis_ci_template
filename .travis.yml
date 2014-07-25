@@ -1,1 +1,2 @@
-script: "./scripts/test1"
+language: perl
+script: "./perl/perl_test1"
